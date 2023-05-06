@@ -1,8 +1,8 @@
 <?php
-	include('header.php');
+	include('includes/header.php');
 ?>
-		<!-- Main content of the website goes here -->
+		index
 	</main>
     <?php
-	include('footer.php');
+	include('inlcudes/footer.php');
 ?>

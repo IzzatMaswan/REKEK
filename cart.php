@@ -1,8 +1,8 @@
 <?php
-	include('header.php');
+	include('includes/header.php');
 ?>
 		cart 
 	</main>
     <?php
-	include('footer.php');
+	include('inlcudes/footer.php');
 ?>

@@ -1,7 +1,7 @@
 <?php
 	include('includes/header.php');
 ?>
-		Wan Wuhamad izzat bin wan abu osman 
+		account
 	</main>
     <?php
 	include('inlcudes/footer.php');

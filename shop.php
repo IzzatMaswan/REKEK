@@ -1,8 +1,8 @@
 <?php
-	include('header.php');
+	include('includes/header.php');
 ?>
-		<!-- Shop page content goes here -->
+		shop
 	</main>
     <?php
-	include('footer.php');
+	include('inlcudes/footer.php');
 ?>
